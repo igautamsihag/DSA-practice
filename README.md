@@ -51,6 +51,9 @@ All tests passed
 | 03 | [Left Rotate by One](arrays/03_left_rotate_by_one.py) | Easy | Optimal |
 | 04 | [Left Rotate by K](arrays/04_left_rotate_by_k.py) | Easy | Brute force → Better → Optimal |
 | 05 | [Right Rotate by K](arrays/05_right_rotate_by_k.py) | Easy | Brute force → Better → Optimal |
+| 06 | [Remove Duplicates from Sorted Array](arrays/06_remove_duplicates_sorted_array.py) | Easy | Brute force → Optimal |
+| 07 | [Move Zeroes to End](arrays/07_move_zeroes_to_end.py) | Easy | Brute force → Optimal |
+| 08 | [Find Missing Number](arrays/08_missing_number.py) | Easy | Brute force → Sum → Hash → Diff → XOR |
 
 ---
 
